@@ -5,7 +5,7 @@
   
 <h1 align="center">Hi 👋, I'm Rutuja More</h1>
 
-<h3 align="center">A passionate frontend developer from India.A Graduate Student in CSE</h3>
+<h3 align="center">I'am a Software Engineer lives in Pune,India. A passionate frontend developer,Feel free to take a look at my latest projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errutuja&label=Profile%20views&color=0e75b6&style=flat" alt="errutuja" /> </p>
 
