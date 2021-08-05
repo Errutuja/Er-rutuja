@@ -1,6 +1,8 @@
-# Er-rutuja
-Rutuja More Portfolio
+<p align="left"> <img src="https://images.app.goo.gl/h9S1xndkKJqEFEmf6">
+  
+  
 <h1 align="center">Hi 👋, I'm Rutuja More</h1>
+
 <h3 align="center">A passionate frontend developer from India.A Graduate Student in CSE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errutuja&label=Profile%20views&color=0e75b6&style=flat" alt="errutuja" /> </p>
