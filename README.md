@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=errutuja" alt="errutuja" /></a> </p>
 
-- 🔭 I’m currently working on [Data Associate](research on student data analysis.)
+- 🔭 I’m currently working on [Data Associate](research on student data analysis.(By using Jupyter Notebook and Google colab))
 
 - 🌱 I’m currently learning **Vm ware,filezilla,CentOs,Hadoop**
 
